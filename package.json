@@ -1,25 +1,15 @@
 {
-  "name": "desafio_1",
-  "version": "1.0.0",
-  "main": "desafio_1.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node desafio_1.js",
-    "dev": "nodemon desafio_1.js"
-  },
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "nodemon": "^2.0.22"
   },
+  "name": "desafio_2",
+  "version": "1.0.0",
+  "main": "ProductManager.js",
   "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/DrBatman18/bckend.git"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "bugs": {
-    "url": "https://github.com/DrBatman18/bckend/issues"
-  },
-  "homepage": "https://github.com/DrBatman18/bckend#readme",
+  "author": "",
+  "license": "ISC",
   "description": ""
 }
