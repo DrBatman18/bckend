@@ -1,15 +1,15 @@
 {
-  "dependencies": {
-    "nodemon": "^2.0.22"
-  },
-  "name": "desafio_2",
+  "name": "desafio_3",
   "version": "1.0.0",
-  "main": "ProductManager.js",
-  "devDependencies": {},
+  "description": "",
+  "main": "ProductManajer.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
-  "description": ""
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
 }
